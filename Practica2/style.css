@@ -1,0 +1,30 @@
+.body{
+    background-color: beige;
+}
+.img{
+    width: 200px;
+    height: 100px;
+}
+.div{
+    text-align: center;
+}
+.h1{
+    text-align: center;
+    color: blue;
+}
+.p1{
+    text-align: center;
+    color: blueviolet;
+}
+.h2{
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
+.h3{
+    text-align: center;
+    color: rgb(49, 204, 2);
+}
+.p2{
+    text-align: center;
+    
+}
